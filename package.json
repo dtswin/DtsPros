@@ -1,27 +1,4 @@
-// {
-//   "name": "dtspros",
-//   "author": "Dereje Tadesse",
-//   "version": "1.0.0",
-//   "description": "",
-//   "main": "index.js",
-//   "scripts": {
-//     "test": "echo \"Error: no test specified\" && exit 1",
-//     "start": "node index.js"
-//   },
-//   "repository": {
-//     "type": "git",    
-//     "url": "https://idontknow/todo.git"
-//   },
 
-//   "license": "ISC",
-//   "bugs": {
-//     "url": "https://github.com/dtswin/DtsPros/issues"
-//   },
-//   "homepage": "https://github.com/dtswin/DtsPros#readme",
-//   "dependencies": {
-//     "express": "^4.18.2"
-//   }
-// }
 {
   "name": "dtspros",
    "author": "Dereje Tadesse",
