@@ -8,8 +8,8 @@
     "start": "node index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dtswin/DtsPros.git"
+    "type": "git",    
+    "url": "https://idontknow/todo.git"
   },
   "author": "Dereje Tadesse",
   "license": "ISC",
